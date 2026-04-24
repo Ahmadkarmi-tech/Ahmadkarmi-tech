@@ -74,8 +74,8 @@ me.say_hi()
 
 | Project | Description | Stack |
 |---|---|---|
-| 🌦️ [Weather Classification](https://github.com/ahmad-karmi/weather-classification-cnn-features) | Classifying weather from images using frozen CNN + classical ML | Python, PyTorch, scikit-learn |
-| 📉 [Customer Churn Prediction](https://github.com/ahmad-karmi) | Logistic regression & RBF networks for churn prediction | Python, scikit-learn |
+| 🌦️ [Weather Classification](https://github.com/Ahmadkarmi-tech/weather-classification-cnn-features) | Classifying weather from images using frozen CNN + classical ML | Python, PyTorch, scikit-learn |
+| 📉 [Customer Churn Prediction](https://github.com/Ahmadkarmi-tech) | Logistic regression & RBF networks for churn prediction | Python, scikit-learn |
 
 </div>
 
