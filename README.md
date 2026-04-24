@@ -12,7 +12,7 @@
 ### `> Computer Engineering Student @ Birzeit University`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-karmi-681923391)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ahmad-karmi&style=for-the-badge)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ahmadkarmi-tech&style=for-the-badge)
 
 </div>
 
@@ -61,21 +61,8 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmad-karmi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-karmi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
----
-
-## `// Featured Projects`
-
-<div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| 🌦️ [Weather Classification](https://github.com/Ahmadkarmi-tech/weather-classification-cnn-features) | Classifying weather from images using frozen CNN + classical ML | Python, PyTorch, scikit-learn |
-| 📉 [Customer Churn Prediction](https://github.com/Ahmadkarmi-tech) | Logistic regression & RBF networks for churn prediction | Python, scikit-learn |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadkarmi-tech&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadkarmi-tech&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
