@@ -18,21 +18,32 @@
 
 ---
 
-```python
-class Ahmad:
-    def __init__(self):
-        self.name       = "Ahmad Karmi"
-        self.role       = "CS / Engineering Student"
-        self.university = "Birzeit University"
-        self.interests  = ["Machine Learning", "AI", "Data Science", "Software Engineering"]
-        self.languages  = ["Python", "Java", "C/C++", "SQL"]
-        self.currently  = "Building ML models and breaking them to understand them 🔍"
+```java
+class Ahmad {
+    String name = "Ahmad Karmi";
+    String role = "CS / Engineering Student";
+    String university = "Birzeit University";
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something cool.")
+    String[] interests = {
+        "Machine Learning",
+        "AI",
+        "Data Science",
+        "Software Engineering"
+    };
 
-me = Ahmad()
-me.say_hi()
+    String[] languages = {
+        "Python",
+        "Java",
+        "C/C++",
+        "SQL"
+    };
+
+    String currently = "Building ML models and breaking them to understand them 🔍";
+
+    void sayHi() {
+        System.out.println("Thanks for dropping by! Let's build something cool.");
+    }
+}
 ```
 
 ---
