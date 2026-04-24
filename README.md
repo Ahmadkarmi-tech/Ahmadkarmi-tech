@@ -12,7 +12,6 @@
 ### `> Computer Engineering Student @ Birzeit University`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-karmi-681923391)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ahmadkarmi-tech&style=for-the-badge)
 
 </div>
 
@@ -55,7 +54,6 @@ class Ahmad {
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
